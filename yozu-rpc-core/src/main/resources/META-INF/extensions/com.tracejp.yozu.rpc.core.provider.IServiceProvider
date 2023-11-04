@@ -1,0 +1,1 @@
+nacos=com.tracejp.yozu.rpc.core.provider.nacos.NacosServiceProvider

@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+yozu:
+  rpc:
+    port: 8001
+    provider:
+      discovery-type: nacos
+      server-address: 127.0.0.1:8848
+      load-balance-type: random

@@ -1,0 +1,1 @@
+random=com.tracejp.yozu.rpc.core.loadbalance.loadbalancer.RandomLoadBalance
